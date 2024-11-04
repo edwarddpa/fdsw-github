@@ -37,3 +37,12 @@ body {
   }
 
 }
+
+.texto  {
+  transition-duration: 0.3s;
+  color: azure;
+}
+
+.texto:hover {
+  color: cyan;
+}
